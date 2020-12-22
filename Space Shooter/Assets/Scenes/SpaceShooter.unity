@@ -2275,6 +2275,11 @@ PrefabInstance:
       propertyPath: touchFire
       value: 
       objectReference: {fileID: 1656602555}
+    - target: {fileID: 7905791289615097194, guid: 308a8b620a94a9847bc7d0d7d045fee5,
+        type: 3}
+      propertyPath: speedValue
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7905791291484232324, guid: 308a8b620a94a9847bc7d0d7d045fee5,
         type: 3}
       propertyPath: m_Name
