@@ -642,13 +642,13 @@
       <Project>{9740BFD3-B8E6-C64C-9EF9-B1DE448B592E}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
-    <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{3ACF21ED-DEF6-162E-3455-3372A2750728}</Project>
-      <Name>UnityEditor.UI</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{DCA750A5-1F60-0530-D78D-98FC7D7AF9B6}</Project>
       <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{3ACF21ED-DEF6-162E-3455-3372A2750728}</Project>
+      <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
       <Project>{012CC1EB-D84A-F2BF-A957-40A6C6E79170}</Project>

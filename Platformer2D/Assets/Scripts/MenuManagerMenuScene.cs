@@ -25,5 +25,9 @@ namespace Platformer2d
         {
             dataBoard.SetActive(false);
         }
+        public void QuitButton()
+        {
+            Application.Quit();
+        }
     }
 }
